@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoRigging.Plugins", "AutoRigging.Plugins.csproj", "{A8B7E452-DD8B-F2C8-61FE-91C9D6819DA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoRigging", "AutoRigging.csproj", "{C402E42A-8BF3-02ED-B735-6CB4B50CE5C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoRigging.Editor", "AutoRigging.Editor.csproj", "{DDA054F9-7DCC-D416-A562-D7E02E655628}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8B7E452-DD8B-F2C8-61FE-91C9D6819DA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8B7E452-DD8B-F2C8-61FE-91C9D6819DA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8B7E452-DD8B-F2C8-61FE-91C9D6819DA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8B7E452-DD8B-F2C8-61FE-91C9D6819DA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C402E42A-8BF3-02ED-B735-6CB4B50CE5C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C402E42A-8BF3-02ED-B735-6CB4B50CE5C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C402E42A-8BF3-02ED-B735-6CB4B50CE5C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C402E42A-8BF3-02ED-B735-6CB4B50CE5C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDA054F9-7DCC-D416-A562-D7E02E655628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDA054F9-7DCC-D416-A562-D7E02E655628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDA054F9-7DCC-D416-A562-D7E02E655628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDA054F9-7DCC-D416-A562-D7E02E655628}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
